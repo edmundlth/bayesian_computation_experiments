@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 webio-jupyter-extension = "*"
+pillow = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
